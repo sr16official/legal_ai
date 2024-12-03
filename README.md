@@ -14,7 +14,7 @@ This project aims to empower citizens of India by making them aware of their leg
 
 The project utilizes two state-of-the-art language models fine-tuned on specific legal datasets:
 
-* **English Model:** Fine-tuned on the Llama 12B parameter model.
+* **English Model:** Fine-tuned on the Llama 12B parameter model. we can also use the lllam 70b considering the resources
 * **Hindi Model:** Fine-tuned on the Nanda B 10B parameter model.
 
 ## Dataset
