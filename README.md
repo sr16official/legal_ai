@@ -25,7 +25,6 @@ The legal datasets used to train the models consist of a comprehensive collectio
 
 To use the system, users can interact with it through a simple interface. They can type their legal queries or provide case details to receive relevant information and predictions. The system is designed to be user-friendly and easy to navigate.
 
-## Future Work
 
 ## Future Work
 
